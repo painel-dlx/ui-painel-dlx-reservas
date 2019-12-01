@@ -1,0 +1,24 @@
+{
+    "name": "painel-dlx/ui-painel-dlx-reservas",
+    "description": "Parte do tema Painel DLX para o sistema Reservas DLX.",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Lepera",
+            "email": "dlepera88@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "path",
+            "url": "/Volumes/Arquivos/Pessoal/dlepera/ProjetosWeb/painel-dlx/dlx-ui"
+        }
+    ],
+    "require-dev": {
+        "painel-dlx/dlx-ui": "dev-master"
+    },
+    "require": {
+        "painel-dlx/ui-painel-dlx": "^1.0"
+    }
+}

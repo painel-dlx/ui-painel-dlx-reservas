@@ -1,0 +1,13 @@
+@import "../../../vendor/painel-dlx/ui-painel-dlx/css/componentes/barra-lateral/__barra-lateral";
+
+.config-quarto {
+    @extend .__barra-lateral;
+
+    // Margens
+    padding: 5px 10px;
+
+    .form-rotulo {
+        // Texto
+        color: #32909f;
+    }
+}
